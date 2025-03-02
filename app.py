@@ -40,7 +40,7 @@ st.markdown(
 # Streamlit interface
 col_logo, col_title = st.columns([1, 9])
 with col_logo:
-    st.image("logo.png", width=200)
+    st.image("Screenshots/Heart.jpg", width=200)
 with col_title:
     st.markdown('<h1 style="text-align: center;">💓 Cardiovascular Disease Prediction 💓</h1>', unsafe_allow_html=True)
 
@@ -146,7 +146,7 @@ st.markdown(
         z-index: 100;
     }
     </style>
-    <div class="footer">Made with ❤️ by CMRTC | © 2025 All Rights Reserved</div>
+    <div class="footer">Made with ❤️ by Mr. Ajay Kumar Soma | © 2025 All Rights Reserved</div>
     """,
     unsafe_allow_html=True
 )
