@@ -43,7 +43,7 @@ The Cardiovascular Disease Prediction application is a machine learning-based to
 </ul>
 
 <h2>📸 Screenshots</h2>
-<p> <img width="1440" alt="Screenshot Homepage" src="https://private-user-images.githubusercontent.com/147264239/418322101-5f0e436a-5a42-4b8a-9425-9d48b32e964c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA4OTE0NDgsIm5iZiI6MTc0MDg5MTE0OCwicGF0aCI6Ii8xNDcyNjQyMzkvNDE4MzIyMTAxLTVmMGU0MzZhLTVhNDItNGI4YS05NDI1LTlkNDhiMzJlOTY0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwMlQwNDUyMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDljZDU4NGY0YjhiZTM0OTY0MzY2M2Y5ZGEyZWQwYTZjZTAxYTVlMmU1Mzg5ZjAxNzJlMjRmNTQzNjkzMjUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SeMdN4eQW3Hm_TeAsD7YP28zuuJ0G71pRcbp2IsQfXw"></p>
+<p> <img width="1440" alt="Screenshot Homepage" src="Screenshots/Home.png"></p>
 
 <h2>🤝 Contributors</h2>
 <ul>
